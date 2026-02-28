@@ -174,7 +174,7 @@ This project replicates real-world SaaS analytics workflows and demonstrates the
 
 ---
 
-## Power BI Dashboard Preview
+## 12. Power BI Dashboard Preview
 
 ### Executive Overview
 ![Executive Overview Dashboard](executive_overview.png)
