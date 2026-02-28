@@ -173,3 +173,14 @@ This project replicates real-world SaaS analytics workflows and demonstrates the
 - Deliver structured, data-backed business recommendations  
 
 ---
+
+## Power BI Dashboard Preview
+
+### Executive Overview
+![Executive Overview Dashboard](executive_overview.png)
+
+### Retention
+![Retention](retention.png)
+
+### Channel Performance
+![Channel Performance](channel_performance.png)
